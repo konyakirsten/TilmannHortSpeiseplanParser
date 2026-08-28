@@ -35,7 +35,7 @@ funktioniert identisch).
 anpassbar:
 
 - `WEEKS_BEHIND` (Standard `1`) – wie viele Wochen rückwirkend geprüft werden
-- `WEEKS_AHEAD` (Standard `8`) – wie viele Wochen im Voraus geprüft werden
+- `WEEKS_AHEAD` (Standard `2`) – wie viele Wochen im Voraus geprüft werden
 - Cron-Zeitplan (Standard: montags 05:30 UTC) – Zeile `cron:` anpassen
 
 ## Hinweis zur PDF-Struktur

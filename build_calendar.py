@@ -22,7 +22,7 @@ OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "speiseplan.ics")
 
 # Wie viele Wochen vor/nach der aktuellen Woche geprüft werden.
 WEEKS_BEHIND = int(os.environ.get("WEEKS_BEHIND", "1"))
-WEEKS_AHEAD = int(os.environ.get("WEEKS_AHEAD", "8"))
+WEEKS_AHEAD = int(os.environ.get("WEEKS_AHEAD", "2"))
 
 WEEKDAY_ISO = {
     "Montag": 1,
