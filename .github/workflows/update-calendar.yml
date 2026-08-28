@@ -1,0 +1,40 @@
+name: Speiseplan-Kalender aktualisieren
+
+on:
+  schedule:
+    # Jeden Montag um 05:30 UTC (07:30 Sommerzeit / 06:30 Winterzeit in Berlin)
+    - cron: "30 5 * * 1"
+  workflow_dispatch: {}  # manuelles Auslösen über die GitHub-UI
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Kalender bauen
+        run: python build_calendar.py
+
+      - name: Änderungen committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add speiseplan.ics
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen am Speiseplan."
+          else
+            git commit -m "Speiseplan aktualisiert ($(date -u +%Y-%m-%d))"
+            git push
+          fi
