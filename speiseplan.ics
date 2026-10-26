@@ -6,62 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:Tilemann-Hort Speiseplan
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:speiseplan-2026-10-12@tilemann-hort-speiseplan.local
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Gnocchi / Käse-Spinatsoße / Obst
-DESCRIPTION:Gnocchi\nKäse-Spinatsoße\nObst\nEnthält: a (Glutenhaltiges
-  Getreide)\, g (Milch)
-CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
-END:VEVENT
-BEGIN:VEVENT
-UID:speiseplan-2026-10-13@tilemann-hort-speiseplan.local
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Gemüse Lasagne / Früchte-Quark
-DESCRIPTION:Gemüse Lasagne\nFrüchte-Quark\nEnthält: a (Glutenhaltiges 
- Getreide)\, c (Eier)\, g (Milch)
-CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
-END:VEVENT
-BEGIN:VEVENT
-UID:speiseplan-2026-10-14@tilemann-hort-speiseplan.local
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Hackkohl / Kartoffeln / Obst
-DESCRIPTION:Hackkohl\nKartoffeln\nObst
-CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
-END:VEVENT
-BEGIN:VEVENT
-UID:speiseplan-2026-10-15@tilemann-hort-speiseplan.local
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Schlemmerfilet a la / Bordelaise / Reis / Salat
-DESCRIPTION:Schlemmerfilet a la\nBordelaise\nReis\nSalat\nEnthält: a (
- Glutenhaltiges Getreide)\, d (Fisch)\, g (Milch)
-CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
-END:VEVENT
-BEGIN:VEVENT
-UID:speiseplan-2026-10-16@tilemann-hort-speiseplan.local
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Hühnersuppentopf / mit Nudeln / Eis
-DESCRIPTION:Hühnersuppentopf\nmit Nudeln\nEis\nEnthält: a (Glutenhalti
- ges Getreide)\, g (Milch)\, i (Sellerie)
-CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
-END:VEVENT
-BEGIN:VEVENT
 UID:speiseplan-2026-10-19@tilemann-hort-speiseplan.local
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Kartoffelpuffer / Apfelmus / Obst
 DESCRIPTION:Kartoffelpuffer\nApfelmus\nObst\nEnthält: c (Eier)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
+DTSTAMP:20261026T111851Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-20@tilemann-hort-speiseplan.local
@@ -71,7 +22,7 @@ SUMMARY:Würstchen Gulasch / Nudeln / Pudding
 DESCRIPTION:Würstchen Gulasch\nNudeln\nPudding\nEnthält: a (Glutenhalt
  iges Getreide)\, c (Eier)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
+DTSTAMP:20261026T111851Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-21@tilemann-hort-speiseplan.local
@@ -81,7 +32,7 @@ SUMMARY:Cevapcici / Tomaten Reis / Kräuterquark / Obst
 DESCRIPTION:Cevapcici\nTomaten Reis\nKräuterquark\nObst\nEnthält: c (E
  ier)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
+DTSTAMP:20261026T111851Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-22@tilemann-hort-speiseplan.local
@@ -91,7 +42,7 @@ SUMMARY:Backfisch / Bratkartoffeln / Gurkensalat
 DESCRIPTION:Backfisch\nBratkartoffeln\nGurkensalat\nEnthält: a (Gluten
  haltiges Getreide)\, c (Eier)\, d (Fisch)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
+DTSTAMP:20261026T111851Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-23@tilemann-hort-speiseplan.local
@@ -101,7 +52,7 @@ SUMMARY:Brokkolicremesuppe / Brötchen / Eis
 DESCRIPTION:Brokkolicremesuppe\nBrötchen\nEis\nEnthält: a (Glutenhalti
  ges Getreide)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105911Z
+DTSTAMP:20261026T111851Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-26@tilemann-hort-speiseplan.local
@@ -111,7 +62,7 @@ SUMMARY:Vorsuppe / Kaiserschmarrn / Apfelmus
 DESCRIPTION:Vorsuppe\nKaiserschmarrn\nApfelmus\nEnthält: a (Glutenhalt
  iges Getreide)\, c (Eier)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105912Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-27@tilemann-hort-speiseplan.local
@@ -121,7 +72,7 @@ SUMMARY:Pastapfanne / mit Geflügelfleisch / Quarkspeise
 DESCRIPTION:Pastapfanne\nmit Geflügelfleisch\nQuarkspeise\nEnthält: a 
  (Glutenhaltiges Getreide)\, c (Eier)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105912Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-28@tilemann-hort-speiseplan.local
@@ -130,7 +81,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Putengyros / Pommes / Kräuterquark / Obst
 DESCRIPTION:Putengyros\nPommes\nKräuterquark\nObst\nEnthält: g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105912Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-29@tilemann-hort-speiseplan.local
@@ -140,7 +91,7 @@ SUMMARY:Fischstäbchen / Kartoffelpüree / Salat
 DESCRIPTION:Fischstäbchen\nKartoffelpüree\nSalat\nEnthält: a (Glutenha
  ltiges Getreide)\, c (Eier)\, d (Fisch)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105912Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-10-30@tilemann-hort-speiseplan.local
@@ -149,7 +100,7 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Gulaschsuppe / Eis
 DESCRIPTION:Gulaschsuppe\nEis\nEnthält: g (Milch)\, i (Sellerie)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105912Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-11-02@tilemann-hort-speiseplan.local
@@ -159,7 +110,7 @@ SUMMARY:Tortellini / Tomaten-Sahnesoße / Obst
 DESCRIPTION:Tortellini\nTomaten-Sahnesoße\nObst\nEnthält: a (Glutenhal
  tiges Getreide)\, c (Eier)\, h (Schalenfrüchte)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105913Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-11-03@tilemann-hort-speiseplan.local
@@ -170,7 +121,7 @@ DESCRIPTION:Gemüse Bratlinge\nKroketten\nZitronen Buttersoße\nObst\nEn
  thält: a (Glutenhaltiges Getreide)\, c (Eier)\, f (Sojabohnen)\, g (M
  ilch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105913Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-11-04@tilemann-hort-speiseplan.local
@@ -180,7 +131,7 @@ SUMMARY:Geflügel Schnitzel / Butter Gemüse / Kartoffeln / Obst
 DESCRIPTION:Geflügel Schnitzel\nButter Gemüse\nKartoffeln\nObst\nEnthä
  lt: a (Glutenhaltiges Getreide)\, c (Eier)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105913Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-11-05@tilemann-hort-speiseplan.local
@@ -190,7 +141,7 @@ SUMMARY:Fischfrikadelle / Kartoffelpüree / Salat
 DESCRIPTION:Fischfrikadelle\nKartoffelpüree\nSalat\nEnthält: a (Gluten
  haltiges Getreide)\, c (Eier)\, d (Fisch)\, g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105913Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 BEGIN:VEVENT
 UID:speiseplan-2026-11-06@tilemann-hort-speiseplan.local
@@ -199,6 +150,6 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:Erbsensuppe / mit Würstchen / Eis
 DESCRIPTION:Erbsensuppe\nmit Würstchen\nEis\nEnthält: g (Milch)
 CATEGORIES:Speiseplan
-DTSTAMP:20261019T105913Z
+DTSTAMP:20261026T111852Z
 END:VEVENT
 END:VCALENDAR
